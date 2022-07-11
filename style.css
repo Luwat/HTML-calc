@@ -161,3 +161,10 @@ button#equal {
     background-color: #223323;
     color: #fff;
 }
+
+
+/* For mobile phones: */
+
+[class*="container"] {
+    width: 100%;
+  }
